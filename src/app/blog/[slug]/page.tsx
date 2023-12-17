@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-shadow */
 import * as React from "react"
 import { notFound } from "next/navigation"
 import { allDocs } from "contentlayer/generated"

@@ -1,3 +1,4 @@
+/* eslint-disable no-underscore-dangle */
 import * as React from "react"
 import Link from "next/link"
 import { allDocs } from "contentlayer/generated"

@@ -12,6 +12,7 @@
   "plugins": ["tailwindcss"],
   "rules": {
     "@next/next/no-html-link-for-pages": "off",
+    "tailwindcss/no-custom-classname": "off",
     "react/jsx-key": "off",
     "import/extensions": [
       "error",
